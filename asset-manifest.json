@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/shoppingbasket/static/css/main.d535fa29.chunk.css",
+    "main.js": "/shoppingbasket/static/js/main.929f9f12.chunk.js",
+    "main.js.map": "/shoppingbasket/static/js/main.929f9f12.chunk.js.map",
+    "runtime-main.js": "/shoppingbasket/static/js/runtime-main.fd1c8caa.js",
+    "runtime-main.js.map": "/shoppingbasket/static/js/runtime-main.fd1c8caa.js.map",
+    "static/js/2.6d253f5e.chunk.js": "/shoppingbasket/static/js/2.6d253f5e.chunk.js",
+    "static/js/2.6d253f5e.chunk.js.map": "/shoppingbasket/static/js/2.6d253f5e.chunk.js.map",
+    "index.html": "/shoppingbasket/index.html",
+    "precache-manifest.cf37cbd98b732655cdf608b083d1a9d2.js": "/shoppingbasket/precache-manifest.cf37cbd98b732655cdf608b083d1a9d2.js",
+    "service-worker.js": "/shoppingbasket/service-worker.js",
+    "static/css/main.d535fa29.chunk.css.map": "/shoppingbasket/static/css/main.d535fa29.chunk.css.map",
+    "static/js/2.6d253f5e.chunk.js.LICENSE.txt": "/shoppingbasket/static/js/2.6d253f5e.chunk.js.LICENSE.txt",
+    "static/media/book.webp": "/shoppingbasket/static/media/book.9e294c66.webp",
+    "static/media/game.webp": "/shoppingbasket/static/media/game.f27473bc.webp",
+    "static/media/tv.webp": "/shoppingbasket/static/media/tv.d1f37978.webp",
+    "static/media/watch.webp": "/shoppingbasket/static/media/watch.e8bd0699.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd1c8caa.js",
+    "static/js/2.6d253f5e.chunk.js",
+    "static/css/main.d535fa29.chunk.css",
+    "static/js/main.929f9f12.chunk.js"
+  ]
+}
