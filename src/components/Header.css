@@ -1,0 +1,30 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 60px;
+    width: 100%;
+    background: black;
+    margin-top: 0;
+}
+
+.basket {
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+}
+
+.header__basket {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header__amount {
+  display: flex;
+  padding-left: 2px;
+}
+
+.header a {
+    color: white;
+}

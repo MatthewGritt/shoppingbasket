@@ -1,0 +1,33 @@
+.checkoutItem {
+    display: flex;
+    align-items: center;
+    margin: 30px;  
+    padding-bottom: 10px;
+}
+
+.checkoutItem img {
+    height: 200px;
+    width: 200px;
+}
+
+.checkoutProduct__info {
+   text-align: center;
+   margin-left: 10px;
+}
+
+.checkoutProduct__info h4 {
+    font-size: 16px;
+}
+
+.checkoutProduct__info p {
+    padding: 20px 0;
+    font-size: 16px;
+}
+
+.checkoutItem button {
+    background: yellow;
+    outline: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+

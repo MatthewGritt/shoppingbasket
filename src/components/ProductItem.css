@@ -1,0 +1,21 @@
+.productItem p {
+    margin: 10px 0;
+    font-size: 20px;
+}
+
+.productItem h3 {
+    font-size: 16px;
+}
+
+.productItem button {
+    padding: 10px 40px;
+    background: green;
+    cursor: pointer;
+    outline: none;
+}
+
+.productItem img {
+    height: 250px;
+    width: 250px;
+}
+
